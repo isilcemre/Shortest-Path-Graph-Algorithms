@@ -8,7 +8,7 @@ Proje kapsamında aşağıdaki algoritmaların çalışma mantıkları ve perfor
 
 * **BFS (Breadth-First Search):** Ağırlıksız grafiklerde en az düğüm sayısına sahip yolu bulur. Bu projede ağırlıklı grafik yapısı kullanıldığı için "adım sayısı" odaklı çalışır.
 * **Dijkstra:** Kenar ağırlıklarını (mesafe) dikkate alarak başlangıç noktasından hedefe olan en kesin kısa yolu bulur.
-* **A* (A-Star):** Dijkstra algoritmasının üzerine "sezgisel" (heuristic) bir fonksiyon ekleyerek hedef yönüne doğru aramayı optimize eder. Bu projede sezgisel olarak **Öklid Mesafesi** kullanılmıştır.
+* **A'*' (A-Star):** Dijkstra algoritmasının üzerine "sezgisel" (heuristic) bir fonksiyon ekleyerek hedef yönüne doğru aramayı optimize eder. Bu projede sezgisel olarak **Öklid Mesafesi** kullanılmıştır.
 
 ## Teknik Detaylar
 
